@@ -1,4 +1,4 @@
-code-sample-instant-update
-==========================
+Code sample PHP
+===============
 
-Code samples utilizados no Guia de integração com a API Instant Update
+[Exibindo Opções de Frete no Checkout PayPal - Instant Update](https://www.paypal-brasil.com.br/desenvolvedores/tutorial/exibindo-opcoes-de-frete-no-checkout-paypal-instant-update/)
